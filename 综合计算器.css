@@ -2,6 +2,9 @@
     margin: 0 auto;
     padding: 0px;
 }
+.all{
+    height: 599px;;
+}
 
 .main{
     position: relative;
@@ -68,6 +71,7 @@ line {
 }
 canvas {
     position: absolute;
+    /* background: red; */
     top: 0;
     left: 0;
     z-index: -10;
